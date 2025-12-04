@@ -1,4 +1,4 @@
-package programmers;
+package programmers.level2;
 
 public class pirodo {
     static int answer;
